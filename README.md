@@ -19,8 +19,13 @@
   <img align="center" alt="Renato-Trello" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
   <img align="center" alt="Renato-Docker" height="90" width="60" src="https://cdn.worldvectorlogo.com/logos/docker.svg">
 </div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatopx)](https://github.com/renatopx/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatopx)](https://github.com/renatopx/github-readme-stats)
+
+![Snake animation](https://github.com/GabiFerraz/GabiFerraz/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **renatopx/renatopx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
